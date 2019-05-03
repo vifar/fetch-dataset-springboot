@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DealersAndVehicles",
+            "request": "launch",
+            "mainClass": "app.DealersAndVehicles",
+            "projectName": "app"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DealersAndVehicles",
+            "request": "launch",
+            "mainClass": "DealersAndVehicles",
+            "projectName": "fetch-dataset"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DealersAndVehicles",
+            "request": "launch",
+            "mainClass": "app.DealersAndVehicles",
+            "projectName": "fetch-dataset"
+        }
+    ]
+}
